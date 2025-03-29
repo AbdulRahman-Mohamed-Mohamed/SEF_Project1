@@ -798,8 +798,6 @@
 {
     text-transform: capitalize;
 
-    width: 52%;
-
     float: left;
 }
 
@@ -818,6 +816,8 @@
     color: #ce2c37;
 
     margin: 30px 0;
+
+    width: 420px;
 }
 
 .why-content ul li
@@ -841,19 +841,17 @@
     text-align: center;
 
     padding-left: 140px;
-
-    width: 48%;
 }
 
 .why-img img
 {
-    width: 100%;
+    width: 90%;
 
     height: 450px;
 
     display: block;
 
-    margin-bottom: 13px;
+    margin: 0 auto 13px;
 }
 
 .why-img ul li
